@@ -1,0 +1,235 @@
+body{
+    padding-left: 15rem;
+    padding-right: 15rem;
+}
+
+.banner{
+    background-image: url(./roomimage.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bannerInside{
+    width: 100px;
+    height: max-content;
+    color: white;
+    background-color: #CCB28D;
+    padding: 15px;
+    opacity: 0.8;
+}
+
+.bookNow{
+    display: flex;
+}
+
+.bookDiv{
+    width: 25%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.bottomForm{
+    font-size: large;
+    margin-top: -3px;
+}
+
+.topForm{
+    font-size: small;
+    margin-top: -2px;
+}
+
+.form{
+    margin: auto;
+    width: 75%;
+    display: flex;
+    justify-content: center;
+}
+
+.form div{
+    margin-top: -30px;
+    width: 25%;
+    height: 60px;
+    border: #A6A14F solid 2px;
+    background-color: white;
+}
+
+.form div:hover{
+    background-color: #A6A14F;
+    color: white;
+}
+
+.imgDiv{
+    width: 75%
+}
+
+.imgNav{
+    width: 50%;
+}
+
+.menuNav{
+    width: 100%;
+}
+
+.navbar{
+    margin-top: -10px;
+    width: 100%;
+    height: 10rem;
+    display: flex;
+}
+
+.title{
+    font-size: 25px;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.imgBook{
+    width: 225px;
+    height: 350px;
+}
+
+.descriptionBook{
+    font-size: 12px;
+}
+
+.buttonBook{
+    width: 100%;
+    height: 60px;
+    background-color: #DBC096;
+    color: white;
+    text-align: center;
+    display: flex;
+}
+
+.buttonBook a {
+    margin: auto;
+}
+
+.titleBook{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.subtitle{
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.ulNav{
+    margin-top: 12%;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+
+.ulNav li {
+    padding: 15px;
+    font-size: large;
+}
+
+.ulNav li:hover {
+    background-color: #DBC096;
+    color: white;
+}
+
+.news{
+    display: flex;
+    width: 100%;
+}
+
+.hello{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+.textNews{
+    width: 50%;
+}
+.talkToMe{
+    width: 50%;
+    margin-top: 150px;
+    background-color: #DBC096;
+    color: white;
+    padding: 20px;
+}
+
+.imgNews{
+    background-image: url(./roomimage.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    width: 50%;
+}
+
+.footer{
+    background-color: #77721F;
+    display: flex;
+    justify-content: space-around;
+}
+
+.ulFooter{
+    list-style: none;
+    color: white;
+}
+
+.liTitleFooter{
+    margin-bottom: 10px;
+    font-size: large;
+    font-weight: bold;
+}
+
+.Dej{
+    display: flex;
+}
+
+.textDej{
+    width: 50%;
+}
+
+.dejTitle{
+    font-size: 25px;
+}
+
+.dejSubtitle{
+    font-size: 20px;
+}
+
+.imgDej{
+    background-image: url(./roomimage.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    width: 50%;
+}
+
+.book2Div{
+    width: 50%;
+}
+
+.imgBook2{
+    width: 90%;
+    height: 300px;
+    border-radius: 20px;
+}
+
+.buttonBook2{
+    width: 50%;
+    margin: auto;
+    height: 60px;
+    background-color: #DBC096;
+    color: white;
+    text-align: center;
+    display: flex;
+}
+
+.buttonBook2 a {
+    margin: auto;
+}
+
